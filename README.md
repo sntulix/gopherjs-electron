@@ -1,4 +1,4 @@
-# gopherjs + electron テスト
+# gopherjs + electron test
 
 ## prepare
 
